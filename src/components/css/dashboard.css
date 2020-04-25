@@ -1,0 +1,13 @@
+body{
+    margin:auto;
+    width: 100%;
+    background-color: #00A9AD;
+}
+.button1{
+    margin-left: 75%;
+}
+.nbutton{
+    float: right;
+    margin-left: 60%;
+    margin-right:10%;
+}
